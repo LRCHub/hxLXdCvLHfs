@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ヘビーローテーション",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-13T06:39:29.294098Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヘビーローテーション",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_ヘビーローテーション_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヘビーローテーション",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_ヘビーローテーション_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヘビーローテーション",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/03_ヘビーローテーション_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヘビーローテーション - Heavy Rotation",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_ヘビーローテーション_-_Heavy_Rotation_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヘビーローテーション",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/05_ヘビーローテーション_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヘビーローテーション",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/06_ヘビーローテーション_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヘビーローテーション",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/07_ヘビーローテーション_AKB48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘビーローテーション",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_ヘビーローテーション_AKB48.txt"
+    }
+  ]
+}
